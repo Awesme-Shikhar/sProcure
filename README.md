@@ -7,6 +7,8 @@ It is HyperLedger blockchain-based solution that guarantees immutability, verifi
 
 ## System Architecture
 
+Here we implemented sProcure for specific scenario of Defense deals. This can be generalised for other organisations as well.
+
 ### Participants
 
-1. **Admin**
+Admin, Consumers, Controller of Finance & Accounts (CFA), Integrated financial advisor (IFA), Logistics, Technical Team, Commercial Team.
